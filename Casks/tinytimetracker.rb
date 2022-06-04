@@ -1,6 +1,6 @@
 cask "tinytimetracker" do
-  version "1.1.1"
-  sha256 "de421c075dfe273d318df0deb3e167dfa70ec17c891ab2348e726f0de48f3c7c"
+  version "1.1.2"
+  sha256 "3463fc3dd9a32f314c0cdaacb2524253065bdc4ac3d2f7147efd90d781940deb"
 
   url "https://github.com/nyok/TinyTimeTracker/releases/download/v#{version}/TinyTimeTracker.app.zip"
   name "TinyTimeTracker"
